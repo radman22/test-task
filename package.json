@@ -1,0 +1,22 @@
+{
+  "name": "test-task-whitewall",
+  "version": "1.0.0",
+  "description": "A sample task for creating a test script in cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radman22/test-task.git"
+  },
+  "author": "Muhammad Radman Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radman22/test-task/issues"
+  },
+  "homepage": "https://github.com/radman22/test-task#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
